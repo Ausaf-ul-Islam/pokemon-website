@@ -77,7 +77,7 @@ const Pokemon = () => {
   return (
     <div
       id="pokemon-s"
-      className="p-2 md:p-6 bg-gradient-to-b from-green-100 via-white to-green-50 h-screen"
+      className="p-2 md:p-6 bg-gradient-to-b from-green-100 via-white to-green-50 min-h-screen"
     >
       <header className="text-center mb-10">
         <h1 className="text-4xl md:text-5xl font-extrabold text-green-600 mb-3">
