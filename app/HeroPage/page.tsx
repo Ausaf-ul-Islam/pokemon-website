@@ -28,7 +28,7 @@ const HeroSection: React.FC = () => {
         {/* Right Content */}
         <div className="lg:w-1/2 flex justify-center">
           <Image
-            src="/herologo.png" // Replace with your Pikachu image URL
+            src="/hero-logo.png" // Replace with your Pikachu image URL
             alt="Pikachu"
             width={380}
             height={300}
